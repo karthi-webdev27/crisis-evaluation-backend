@@ -1,5 +1,5 @@
 // File: src/main/java/com/example/crisis/service/CrisisEvaluationService.java
-package main.java.com.example.crisis.service;
+package com.example.crisis.service;
 
 import com.example.crisis.dto.CrisisEvaluationResponse;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
